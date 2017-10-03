@@ -80,3 +80,6 @@ if __name__ == '__main__':
     onset.init(sys.argv)
     times = onset.load_wav()
     onset.write_csv(times)
+
+
+    # test
